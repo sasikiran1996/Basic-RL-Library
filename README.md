@@ -17,3 +17,4 @@ Algorithms:
   5) Q-lambda
   6) Reinforce (without baseline)
   
+For examples on using these, check main.py 
